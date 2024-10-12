@@ -6,11 +6,11 @@ A Computer Engineering student from Brazil at UTFPR.
 
 ## Languages and Tools:
 <p>
-    <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c" alt="C" />
-    <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus" alt="C++" />
-    <img src="https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
-    <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS3" />
-    <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux" alt="Linux" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/99/C_Programming_Language.svg" alt="C" width="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_++_Logo.svg" alt="C++" width="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/HTML5_logo_and_wordmark.svg" alt="HTML5" width="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo_and_wordmark.svg" alt="CSS3" width="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.png" alt="Linux" width="50" />
 </p>
