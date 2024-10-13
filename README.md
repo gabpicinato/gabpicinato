@@ -2,7 +2,7 @@
 
 A Computer Engineering student from Brazil at UTFPR.
 
-- My website with my projects: [https://gabpicinato.github.io](https://gabpicinato.github.io)
+- Visit my website to see my projects: [https://gabpicinato.github.io](https://gabpicinato.github.io)
 
 ## Languages and Tools:
 <p>
